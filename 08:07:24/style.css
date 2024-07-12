@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 10px 0 ;
+}
+.container{
+    display: flex;
+   
+}
+
+nav{
+    background-color: green;
+    width: 250px;
+padding: 20px;
+color: #fff6f6;
+
+}
+nav h2{
+    margin-top: 2px;
+}
+nav ul{
+    list-style: none;
+
+}
+nav ul li{
+margin: 10px 0;
+    
+}
+
+main{
+flex: 1;
+padding: 20px;
+}
+
+footer{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
